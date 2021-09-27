@@ -1,6 +1,6 @@
 # Proof of Authority Development Chain
 
-For this project, you have to install the [Geth & Tools (1.9.7 version)](https://geth.ethereum.org/downloads/) and my [MyCrypto Desktop Application](https://download.mycrypto.com/) for your operating system.
+For this project, we have to install the [Geth & Tools (1.9.7 version)](https://geth.ethereum.org/downloads/) and my [MyCrypto Desktop Application](https://download.mycrypto.com/) for your operating system.
 
 ``Notes: Ideally we do not want to post any of our keys to the public. Since we are using test tokens and test wallets for the purpose of the exercise we will upload them all in Git``
 
@@ -61,7 +61,7 @@ For our project, we will have to create a new account for each of the two nodes 
 
 Open two instances of Git bash or Terminal and make sure to be inside ``unit18`` folder.
 
-1. Our first node will function as our bootnode. We will start the following command:
+1. Our first node will function as our bootnode. Input the following command:
 
 ``./geth --networkid 123 --datadir node1 --unlock "publicaddresskeyforwallet#1" --mine --rpc --allow-insecure-unlock``
 
@@ -75,7 +75,7 @@ Open two instances of Git bash or Terminal and make sure to be inside ``unit18``
 
 # Connecting to MyCrypto Desktop Application
 
-1. Open MyCrypto destop application and click on the change network at the bottom left of the window.
+1. Open MyCrypto desktop application and click on the change network at the bottom left of the window.
 
 2. Click on ``add custom node`` to setup our test network.
 
