@@ -2,6 +2,8 @@
 
 For this project, you have to install the [Geth & Tools (1.9.7 version)](https://geth.ethereum.org/downloads/) and my [MyCrypto Desktop Application](https://download.mycrypto.com/) for your operating system.
 
+``Notes: Ideally we do not want to post any of our keys to the public. Since we are using test tokens and test wallets for the purpose of the exercise we will upload them all in Git``
+
 ## Creation of a Genesis Block
 
 1. Create 'unit18' folder in your chosen directory and unpack the Geth & Tools (1.9.7 version).
