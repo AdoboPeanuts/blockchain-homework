@@ -33,6 +33,16 @@ until you reach the Chain ID prompt.
 
 ![puppeth](screenshots/geth2.png)
 
+* Input `2` to manage existing genesis
+
+* Input `2` to export genesis configurations 
+
+![puppeth](screenshots/configuration.png)
+
+* Press enter in the prompt and you have the genesis specs created inside the designated directory.
+
+
+
 # Creating the Nodes
 
 For our project, we will have to create a new account for each of the two nodes in our network. We will do this using the following command: ``./geth account new --datadir node1`` 
@@ -105,11 +115,11 @@ Make sure to have both nodes running on the background before you open your wall
 
 ![puppeth](screenshots/mycrypto5.png)
 
-4. Make sure to copy the hash and past it into the ``TX Status`` section of the application or click ``TX Status`` in the popup below.
+4. Make sure to copy the hash and paste it into the ``TX Status`` section of the application or click ``TX Status`` in the popup below.
 
 ![puppeth](screenshots/mycrypto6.png)
 
-5. Recheck of your account if the balance has changed. 
+5. Check account balance. 
 
 ![puppeth](screenshots/mycrypto7.png)
 
