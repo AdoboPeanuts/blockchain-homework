@@ -12,19 +12,20 @@ As of March 23, 2021, Mogo Inc. has announced plans to acquire Moka to expand it
 
 ## Why This Matters
 _______
-The acquisition of Moka will bring Mogo in direct competition with the Toronto-based Fintech startup Wealthsimple, which currently provides Canada's most popular stock trading platform. 
 
-Integrating services from both companies will make their platform more robust and much more appealing to Millenials.
+The acquisition of Moka will bring Mogo in direct competition with the Toronto-based Fintech startup Wealthsimple, which currently provides Canada's most popular stock trading platform. Recently, Wealthsimple also introduced cypto trading in their platform. Establishing a market for new generations and introducing cryptocurrency as a new investment market. 
 
-Under the integrated platform, Moka-Mogo users will direct their automated round-ups towards personalized ETF or cryptocurrencies. At the same time, Moka-Mogo Prepaid Card users can trade bitcoin cashback rewards and redirect funds to their preferred investment accounts.
+Integrating services from both companies will make their platform more robust and much more appealing to Millenials. Millenials gravitate towards these types of financial services as they are more accessible to them and does not require visits to a physical branch. 
+
+Under the integrated platform, Moka-Mogo users can direct their automated round-ups towards personalized ETF or cryptocurrencies. At the same time, Moka-Mogo Prepaid Card users can trade bitcoin cashback rewards and redirect funds to their preferred investment accounts.
 
 
 ## Why this is interesting
 _______
 
-Mogo continues to acquire companies in the fintech and cryptocurrency space (i.e. Moka Financial, Carta Solutions and Fortification Capital). They are looking to accelerate their new product development, MogoTrade, a commission-free stock trading solution, while also improving and integrating services from the acquired companies.
+Mogo continues to acquire companies in the fintech and cryptocurrency space (i.e. Moka Financial, Carta Solutions and Fortification Capital). They are looking to accelerate their new product development, MogoTrade, a commission-free stock trading solution, while also improving and integrating services from the acquired companies. Moka-Mogo users will, later on, be able to also invest in another cryptocurrency other than bitcoin.
 
-Mogo users will, later on, be able to also invest in another cryptocurrency other than bitcoin.
+Investing in blockchain and fintech ecosystem is the new norm. Gradually, fintech companies are able to gain ground and raise awareness on the endless possibilities of blockchain in the financial space. 
 
 ## Thing to Keep in Mind 
 _______
